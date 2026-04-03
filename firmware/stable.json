@@ -1,7 +1,5 @@
 {
-  "version": "v0.0.2",
-  "url": "https://github.com/TurioLabs/MiniOne-Firmware/releases/download/v0.0.2/firmware.bin",
-  "changelog": [
-    "chore: deploy OTA manifest to external GitHub Pages repo"
-  ]
+  "version": "v0.0.3",
+  "url": "https://github.com/TurioLabs/MiniOne-Firmware/releases/download/v0.0.3/firmware.bin",
+  "changelog": []
 }
